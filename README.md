@@ -1,5 +1,4 @@
-# Sistem Prediksi Diagnosa Penyakit Hepatitis
-# Metode ANN Single Layer Perceptron
+# Sistem Prediksi Diagnosa Penyakit Hepatitis <br> Metode ANN Single Layer Perceptron
 
 #### Langkah - Langkah Menjalakan Project
 
