@@ -1,4 +1,5 @@
-# [ TK ] Sistem Informasi Legaslir
+# Sistem Prediksi Diagnosa Penyakit Hepatitis
+# Metode ANN Single Layer Perceptron
 
 #### Langkah - Langkah Menjalakan Project
 
