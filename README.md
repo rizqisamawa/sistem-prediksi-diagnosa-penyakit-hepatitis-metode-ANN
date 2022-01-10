@@ -9,5 +9,5 @@
 * Ketikan di browser kalian `http://127.0.0.1:8000/`
 * Tadaaaaa......
 
-Pencipta I : Ryan Haris Bawafi
+Pencipta I : Ryan Haris Bawafi <br>
 Pecipta II : Muhammad Rizqi Samawa
