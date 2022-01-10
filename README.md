@@ -12,4 +12,4 @@
 > Perhitungan metode ANN *single layer perceptron* masih manual
 
 Pencipta I : Ryan Haris Bawafi <br>
-Pecipta II : Muhammad Rizqi Samawa
+Pencipta II : Muhammad Rizqi Samawa
