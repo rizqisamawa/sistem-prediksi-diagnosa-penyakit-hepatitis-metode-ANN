@@ -6,6 +6,7 @@
 * Jalankan `composer install` di dalam folder dengan menggunakan `cmd`
 * Jalankan `php artisan serve`
 * Ketikan di browser kalian `http://127.0.0.1:8000/`
+* masukan email : rendi01@gmail.com password : rahasia
 * Tadaaaaa......
 
 **Noted**
